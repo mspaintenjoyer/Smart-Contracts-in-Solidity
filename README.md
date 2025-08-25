@@ -1,5 +1,5 @@
 # Smart-Contracts-in-Solidity
-This repository contains a collection of simple to intermediate-level Solidity smart contracts. 
+This repository contains a collection of simple to intermediate-level Solidity smart contracts. I will update this repo in the future, as I create more. Right now, trying to learn more about Inheritance and Security.
 ## Contracts
 
 ### 1. SimpleToken.sol
