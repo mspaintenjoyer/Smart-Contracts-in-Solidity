@@ -1,4 +1,4 @@
- SimpleToken
+ #SimpleToken
  - A very basic, non-standard token contract.
  - It demonstrates how to manage a supply and balances using a mapping.
  
